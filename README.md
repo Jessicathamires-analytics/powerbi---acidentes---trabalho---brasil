@@ -14,7 +14,9 @@ Analisar acidentes de trabalho em um país fictício, considerando regiões, tip
 - Tipos de acidentes mais frequentes
 - Comparação entre acidentes fatais e não fatais
 
+### Dasjboard 
+O dashboard foi desenvolvido no Power BI Desktop e está disponível no arquivo Projeto I.pbix neste repositório.
+
+
 ### Observação
 Projeto desenvolvido com dados fictícios para fins educacionais.
-
-O dashboard está disponível no arquivo Projeto I.pbix
